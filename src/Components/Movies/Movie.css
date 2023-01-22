@@ -7,11 +7,9 @@
   font-size: 1.4em;
   font-weight: bold;
 }
-
 .Movie-CategoryText {
   font-family: Amerio;
   font-size: 0.8em;
- 
   
 }
 
@@ -21,6 +19,7 @@
   margin-top: auto;
   width: 100%;
 }
+
 
 .Movie-Container {
   background-color: var(--main-text-color);
@@ -36,7 +35,6 @@
   animation: pop 100ms;
   top: 0;
 }
-
 .Movie-Container:hover {
   top: -5px;
   transition: all 200ms;

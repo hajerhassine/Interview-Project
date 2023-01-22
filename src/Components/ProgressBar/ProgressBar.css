@@ -14,15 +14,11 @@
   margin-bottom: 40px;
   margin-right: 40px;
   margin-left: 40px;
-
 }
-
 .Progress-like {
   background-color: #099627;
   background-image: linear-gradient(315deg, #099627 0%, #099627 74%);
   width: 20%;
   height: 100%;
-
-
   text-align: center;
 }
